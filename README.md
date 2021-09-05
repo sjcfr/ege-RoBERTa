@@ -12,7 +12,7 @@ To this end, we involve a two stage learning process to introduce the event grap
 * Then pretrain.sh is used for conducting the first stage training process. 
 
 ### Finetuning Stage: 
-** Adapt Event Graph Knowledge to the Abductive Reasoning Task**
+**Adapt Event Graph Knowledge to the Abductive Reasoning Task**
 
 Please refer to train_anli.sh and Train_anli.py.
 
